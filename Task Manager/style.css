@@ -1,0 +1,29 @@
+.tasklist {
+    list-style:square;
+    margin-bottom: 30px;
+}
+
+.buttonspan {
+    display: inline;
+    float: right;
+    margin-right: 700px;
+    }
+
+.btn.btn-primary {
+    margin: 5px;
+}
+
+.hideandremovebuttons {
+    float: right;
+    margin-right: 100px;
+}
+
+.taskdetails {
+    display: inline;
+    font-size: 25px;
+
+}
+
+.btn.btn-primary.btn-lg {
+    padding: 30px;
+}
